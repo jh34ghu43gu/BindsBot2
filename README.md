@@ -1,2 +1,2 @@
 # BindsBot2
- Bot of binds
+ Bot of binds and memory leaks
